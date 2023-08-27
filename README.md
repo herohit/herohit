@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **Javascript,React.js**
+- 🌱 I’m currently learning **Animation using js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/herohit](https://github.com/herohit)
 
