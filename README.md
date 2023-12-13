@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herohit&label=Profile%20views&color=0e75b6&style=flat" alt="herohit" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **Animation using js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/herohit](https://github.com/herohit)
 
